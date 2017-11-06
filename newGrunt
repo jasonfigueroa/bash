@@ -1,3 +1,4 @@
+#!/bin/sh
 if [ "$1" != "" ]; then
 	project_template=$1
 else
